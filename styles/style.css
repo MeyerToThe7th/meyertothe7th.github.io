@@ -1,0 +1,46 @@
+/* this is a comment btw */
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'MuseoModerno', cursive; /* this should be the rest of the output you got from Google fonts */
+    background-color: #3F7FBF;
+  }
+  
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li, a {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+/* 
+#whip {
+
+}
+*/
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #fa4d47;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #7FFFFF;
+    text-shadow: 5px 8px 10px black;
+  }
+  
+  img {
+    display: block;
+    border: 2px solid white;
+    margin: 0 auto;
+    width: 350px;
+  }
+  
